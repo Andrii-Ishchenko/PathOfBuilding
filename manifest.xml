@@ -240,7 +240,7 @@
 	<File name="Data/Uniques/mace.lua" part="program" sha1="845f20bddcc12e6b7ac72e97fc3e6f50f2360f68" />
 	<File name="Data/Uniques/quiver.lua" part="program" sha1="b99a019d76640092c763634232f62dd8d8b19b6b" />
 	<File name="Data/Uniques/ring.lua" part="program" sha1="a099c8ad2d3dad4cd313793d5de83452c96cd639" />
-	<File name="Data/Uniques/shield.lua" part="program" sha1="eaef4b0b5b666566b31b7f241f2ff71034fe25c8" />
+	<File name="Data/Uniques/shield.lua" part="program" sha1="30c861c7bac3bea2405e1e8247e01d2a26627b07" />
 	<File name="Data/Uniques/Special/BoundByDestiny.lua" part="program" sha1="d8a431d78427cb9c6dd5ae080f8d4809b10400e2" />
 	<File name="Data/Uniques/Special/Generated.lua" part="program" sha1="aa56b9dccd772077d29f0abd6294b66022f55f7a" />
 	<File name="Data/Uniques/Special/New.lua" part="program" sha1="c7f55a5ee614f2fb9340b4708f823a5bccdd47b6" />
